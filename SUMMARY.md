@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [First Page](README.md)
 * [Second Page](second-page.md)
 
